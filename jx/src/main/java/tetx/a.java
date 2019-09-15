@@ -6,5 +6,6 @@ package tetx;
 public class a {
     public static void main(String[] args) {
         System.out.println("酒雄最帅");
+        System.out.println("鹏总是我");
     }
 }
